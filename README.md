@@ -7,8 +7,8 @@ Let's start then.
 ## Draw a circle around the outer post of the letter G as in the logo
 ![alt text](https://github.com/yashpathack/Material-Design-2018.02.08.14.53-Anatomy-of-G-in-the-Google-Logo/blob/master/g1.png)<br/>
 
-As you can see the circle do not enclose the G fully. This is non-symmetric. 
+As you can see, the circle do not enclose the 'G' fully. This is non-symmetric. 
 
 ![alt text](https://github.com/yashpathack/Material-Design-2018.02.08.14.53-Anatomy-of-G-in-the-Google-Logo/blob/master/g12.png)<br/>
 
-Look at the gaps and edges missed during the circular enclosure.
+Look at the gaps and edges missed during the circular enclosure. 
