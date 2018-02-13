@@ -13,7 +13,7 @@ As you can see, the circle do not enclose the 'G' fully. This is non-symmetric.
 
 Look at the gaps and edges missed during the circular enclosure. 
 
-## Now let's look at the primary yellow arc joining the edge of "G"
+## Now join the yellow arc of "G" to the blue rectangular end of it
 
 ![alt text](https://github.com/yashpathack/Material-Design-2018.02.08.14.53-Anatomy-of-G-in-the-Google-Logo/blob/master/g4.PNG)<br/>
 
