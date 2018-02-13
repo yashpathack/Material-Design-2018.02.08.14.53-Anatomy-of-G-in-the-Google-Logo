@@ -21,3 +21,5 @@ The closures join up and form a rectangle.
 ## Join up to the extreme of the yellow curve using straight lines
 
 ![alt text](https://github.com/yashpathack/Material-Design-2018.02.08.14.53-Anatomy-of-G-in-the-Google-Logo/blob/master/gyu.PNG)<br/>
+
+Here you can see the symmetry of the two rectangles. 
