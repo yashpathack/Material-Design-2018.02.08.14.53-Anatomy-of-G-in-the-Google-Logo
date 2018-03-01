@@ -23,3 +23,5 @@ The closures join up and form a rectangle.
 ![alt text](https://github.com/yashpathack/Material-Design-2018.02.08.14.53-Anatomy-of-G-in-the-Google-Logo/blob/master/gyu.PNG)<br/>
 
 Here you can see the symmetry of the two rectangles. 
+
+## The symmetry for the Logo is unconvetional and exists in parts of design. 
