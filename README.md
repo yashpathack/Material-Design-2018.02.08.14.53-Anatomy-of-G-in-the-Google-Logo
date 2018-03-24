@@ -25,3 +25,4 @@ The closures join up and form a rectangle.
 Here you can see the symmetry of the two rectangles. 
 
 ## The symmetry for the Logo is unconvetional and exists in parts of design. 
+For this I am gonna use the color separations in an image. Will also use algorithms to identify the color percentage in an image.
